@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beyond-the-record-3843.team-4d-1408.chatgpt.site/sitemap.xml
